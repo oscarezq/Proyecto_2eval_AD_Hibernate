@@ -49,6 +49,7 @@ public class Vista extends javax.swing.JFrame {
         jLabel4 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Trabajo API con Hibernate - Óscar Ezquerro Sá");
 
         txtConsola.setColumns(20);
         txtConsola.setRows(5);
